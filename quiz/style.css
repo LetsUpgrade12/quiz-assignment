@@ -1,0 +1,36 @@
+body{
+
+background-color: #4dcaf0;
+
+}
+a:link, a:visited {
+  background-color: #f4e136;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+.level{
+  margin-left: 600px;
+  margin-top: 30px;
+}
+.text {
+  margin-top: 250px;
+  font-size: 100px;
+text-align: center;
+border-style: solid;
+border: 20px 20px ;
+
+}
+.select {
+  margin-top: 20px;
+  font-size: 50px;
+text-align: center;
+
+}
